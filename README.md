@@ -1,7 +1,8 @@
 # Traveling-Salesman-Problem (GENETIC ALGORITHIM)
+
 ![](images/Screenshot_3.png)
 
-### What is the Traveling Salesman Problem? 
+#### What is the Traveling Salesman Problem? 
 
 “Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?” 
 
@@ -13,7 +14,7 @@ A genetic algorithm is a search heuristic that is inspired by Charles Darwin’s
 
 * Genetic Algorithm is an optimization algorithm used to solve non-linear problems, to compute the shortest route in a few seconds (**O(ng)**, where n is population size and g is number of generations). _If this attempted through brute force it would have been impractical with a time complexity of O(n!)._
 
-### Results and interesting findings: 
+## Results and interesting findings: 
 
 **This is the shortest calculated route plotted:**
 
