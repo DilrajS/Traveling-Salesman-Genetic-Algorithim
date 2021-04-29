@@ -14,6 +14,16 @@ A genetic algorithm is a search heuristic that is inspired by Charles Darwin’s
 
 Genetic Algorithm is an optimization algorithm used to solve non-linear problems, to compute the shortest route in a few seconds (**O(ng)**, where n is population size and g is number of generations). _If this attempted through brute force it would have been impractical with a time complexity of O(n!)._
 
+### Pros and Cons of Genetic Algorithm:
+
+**Pros:** 
+* Faster than other algorithms. 
+* Easier. If vector representation of individual is right, we can find out a solution without a deep analysis work.
+
+**Cons:** 
+* The random heuristics sometimes doesn’t find the optimum.
+* It is not a complete algorithm (not always the algorithm finds a suitable solution). Sometimes it can get stuck with a local maximum problem. However, crossover operation help to mitigate this issue, although this implies more iterations.
+
 ## Results and Interesting Findings 
 
 **This is the shortest calculated route plotted**
