@@ -14,7 +14,7 @@ A genetic algorithm is a search heuristic that is inspired by Charles Darwin’s
 
 Genetic Algorithm is an optimization algorithm used to solve non-linear problems, to compute the shortest route in a few seconds (**O(ng)**, where n is population size and g is number of generations). _If this attempted through brute force it would have been impractical with a time complexity of O(n!)._
 
-## Results and interesting findings: 
+## Results and Interesting Findings 
 
 **This is the shortest calculated route plotted**
 
