@@ -16,13 +16,13 @@ Genetic Algorithm is an optimization algorithm used to solve non-linear problems
 
 ### Pros and Cons of Genetic Algorithm:
 
-**Pros:** 
-* Faster than other algorithms. 
-* Easier. If vector representation of individual is right, we can find out a solution without a deep analysis work.
+  **Pros:** 
+  * Faster than other algorithms. 
+  * Easier. If vector representation of individual is right, we can find out a solution without a deep analysis work.
 
-**Cons:** 
-* The random heuristics sometimes doesn’t find the optimum.
-* It is not a complete algorithm (not always the algorithm finds a suitable solution). Sometimes it can get stuck with a local maximum problem. However, crossover operation help to mitigate this issue, although this implies more iterations.
+  **Cons:** 
+  * The random heuristics sometimes doesn’t find the optimum.
+  * It is not a complete algorithm (not always the algorithm finds a suitable solution). Sometimes it can get stuck with a local maximum problem. However, crossover operation help to mitigate this issue, although this implies more iterations.
 
 ## Results and Interesting Findings 
 
