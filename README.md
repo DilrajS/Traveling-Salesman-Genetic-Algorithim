@@ -10,11 +10,6 @@
 
 A genetic algorithm is a search heuristic that is inspired by Charles Darwin’s theory of natural evolution. This algorithm reflects the process of natural selection where the fittest individuals are selected for reproduction to produce offspring of the next generation. 
 
-### Time Complexity of Genetic Algorithm: 
-
-Genetic Algorithm is an optimization algorithm used to solve non-linear problems, to compute the shortest route in a few seconds (**O(ng)**, where n is population size and g is number of generations). _If this attempted through brute force it would have been impractical with a time complexity of O(n!)._
-
-### Pros and Cons of Genetic Algorithm:
 
   **Pros:** 
   * Faster than other algorithms. 
@@ -23,6 +18,10 @@ Genetic Algorithm is an optimization algorithm used to solve non-linear problems
   **Cons:** 
   * The random heuristics sometimes doesn’t find the optimum.
   * It is not a complete algorithm (not always the algorithm finds a suitable solution). Sometimes it can get stuck with a local maximum problem. However, crossover operation help to mitigate this issue, although this implies more iterations.
+
+### Time Complexity of Genetic Algorithm: 
+
+Genetic Algorithm is an optimization algorithm used to solve non-linear problems, to compute the shortest route in a few seconds (**O(ng)**, where n is population size and g is number of generations). _If this attempted through brute force it would have been impractical with a time complexity of O(n!)._
 
 ## Results and Interesting Findings 
 
