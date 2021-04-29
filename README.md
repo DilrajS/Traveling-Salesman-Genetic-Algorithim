@@ -22,9 +22,9 @@ A genetic algorithm is a search heuristic that is inspired by Charles Darwin’s
 
 **The difference between the initial distance and final distance**
 
-_Initial distance: 27563.288009700773
+_Initial distance: 27563.288009700773_
 
-Final distance: 11593.874222707302 _
+_Final distance: 11593.874222707302_
 
 **Difference**: 15969.41379
 
@@ -32,4 +32,4 @@ Final distance: 11593.874222707302 _
 
 ![](images/results.png)
 
-_I did 500 generations but 300 would have been sufficient. _
+_I did 500 generations but 300 would have been sufficient._
