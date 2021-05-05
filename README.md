@@ -29,7 +29,7 @@ Genetic Algorithm is an optimization algorithm used to solve non-linear problems
 
 ![](images/graph.png) 
 
-**The difference between the initial distance and final distance**
+**The difference between the initial distance and final distance:**
 
 _Initial distance: 27563.288009700773_
 
