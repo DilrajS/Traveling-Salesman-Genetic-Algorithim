@@ -42,3 +42,10 @@ _Final distance: 11593.874222707302_
 ![](images/results.png)
 
 _I did 500 generations but 300 would have been sufficient._
+
+### How to run locally
+1.	Go to https://colab.research.google.com (Internet connection and Gmail account required)
+2.	Select “GitHub” in the open window and paste in this URL to copy the project 
+3.	Confirm you have opened the file ‘Genetic_TSP_notebook_version.ipynb’
+4.	Click ‘Runtime’ and select ‘Run all’  
+
